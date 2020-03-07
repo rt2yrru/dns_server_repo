@@ -1,1 +1,3 @@
-# dns_server_repo
+# dns_server_json
+
+This repo has dns server list
